@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/cnci-virtual",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a cnci-virtual",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/cnci-virtual.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://coscouture.com/es/cnci-virtual/"
+    },
+    "homepage": "https://coscouture.com/es/cnci-virtual/"
+}
